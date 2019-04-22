@@ -1,2 +1,2 @@
-# Aplikasi koperasi versi febryan
+# Aplikasi koperasi bukan sultan
 Repository untuk Code Igniter koperasi
